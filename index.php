@@ -1,4 +1,4 @@
 <?php
-echo "<h3>GIt test success>/h3>";
+echo "<h3>GIt test completed success</h3>";
 
 ?>
